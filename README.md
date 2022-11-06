@@ -1,6 +1,6 @@
 ## To-Do
 
-### A simple appliaction to track your to-do.
+ A simple appliaction to track your to-do.
 
 ##
 
